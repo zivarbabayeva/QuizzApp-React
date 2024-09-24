@@ -1,0 +1,234 @@
+{
+    "questions":[
+    {
+        "question": "1. What does the term 'worldview' refer to?",
+        "options": {
+            "A": "A geographical map",
+            "B": "A personal philosophy of life",
+            "C": "A scientific theory",
+            "D": "A historical event"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "2. Which of the following shapes a person's worldview?",
+        "options": {
+            "A": "Education",
+            "B": "Cultural background",
+            "C": "Personal experiences",
+            "D": "All of the above"
+        },
+        "correct_option": "D"
+    },
+    {
+        "question": "3. How can literature influence worldviews?",
+        "options": {
+            "A": "By providing entertainment",
+            "B": "By shaping moral values",
+            "C": "By presenting historical facts",
+            "D": "All of the above"
+        },
+        "correct_option": "D"
+    },
+    {
+        "question": "4. Which philosopher is known for existentialism?",
+        "options": {
+            "A": "Plato",
+            "B": "Friedrich Nietzsche",
+            "C": "Jean-Paul Sartre",
+            "D": "Aristotle"
+        },
+        "correct_option": "C"
+    },
+    {
+        "question": "5. What is a 'collectivist' worldview?",
+        "options": {
+            "A": "Focus on individual rights",
+            "B": "Emphasis on group goals and harmony",
+            "C": "Belief in capitalism",
+            "D": "Advocacy for competition"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "6. Which worldview prioritizes empirical evidence?",
+        "options": {
+            "A": "Scientific worldview",
+            "B": "Religious worldview",
+            "C": "Traditional worldview",
+            "D": "Mythological worldview"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question": "7. What role does religion play in shaping worldviews?",
+        "options": {
+            "A": "It has no influence",
+            "B": "It provides moral guidance and meaning",
+            "C": "It promotes skepticism",
+            "D": "It hinders understanding"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "8. Which worldview emphasizes sustainability?",
+        "options": {
+            "A": "Materialism",
+            "B": "Environmentalism",
+            "C": "Individualism",
+            "D": "Industrialism"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "9. How does globalization affect worldviews?",
+        "options": {
+            "A": "It isolates cultures",
+            "B": "It promotes cultural exchange",
+            "C": "It has no effect",
+            "D": "It strengthens nationalism"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "10. How does media influence public worldviews?",
+        "options": {
+            "A": "By providing biased information",
+            "B": "By shaping perceptions of reality",
+            "C": "By promoting critical thinking",
+            "D": "All of the above"
+        },
+        "correct_option": "D"
+    },
+    {
+        "question": "11. Which worldview is characterized by individual rights and freedoms?",
+        "options": {
+            "A": "Collectivism",
+            "B": "Libertarianism",
+            "C": "Authoritarianism",
+            "D": "Communism"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "12. What is the focus of a religious worldview?",
+        "options": {
+            "A": "Material wealth",
+            "B": "Spiritual beliefs and practices",
+            "C": "Scientific facts",
+            "D": "Historical events"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "13. Which of the following best describes a postmodern worldview?",
+        "options": {
+            "A": "Emphasis on objective truth",
+            "B": "Skepticism of grand narratives",
+            "C": "Belief in absolute values",
+            "D": "Focus on technology"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "14. What is a common characteristic of a humanistic worldview?",
+        "options": {
+            "A": "Focus on divine intervention",
+            "B": "Emphasis on human potential and ethics",
+            "C": "Belief in fate",
+            "D": "Reliance on tradition"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "15. How do cultural traditions shape worldviews?",
+        "options": {
+            "A": "They have no impact",
+            "B": "They provide context and meaning",
+            "C": "They limit individual thought",
+            "D": "They promote uniformity"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "16. Which worldview typically supports social equality?",
+        "options": {
+            "A": "Capitalism",
+            "B": "Socialism",
+            "C": "Individualism",
+            "D": "Nationalism"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "17. What does a secular worldview prioritize?",
+        "options": {
+            "A": "Spiritual beliefs",
+            "B": "Religious texts",
+            "C": "Scientific reasoning",
+            "D": "Tradition"
+        },
+        "correct_option": "C"
+    },
+    {
+        "question": "18. What is a fundamental belief of environmentalism?",
+        "options": {
+            "A": "Economic growth is the most important",
+            "B": "Nature should be preserved and respected",
+            "C": "Human progress is limitless",
+            "D": "Technology can solve all problems"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "19. Which philosopher is known for advocating pragmatism?",
+        "options": {
+            "A": "John Dewey",
+            "B": "Soren Kierkegaard",
+            "C": "Immanuel Kant",
+            "D": "David Hume"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question": "20. What is a 'global citizen' worldview?",
+        "options": {
+            "A": "Focus on local issues only",
+            "B": "Recognition of global interdependence",
+            "C": "Emphasis on nationalism",
+            "D": "Support for isolationism"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "21. What is the primary concern of feminist worldviews?",
+        "options": {
+            "A": "Economic stability",
+            "B": "Gender equality",
+            "C": "Technological advancement",
+            "D": "National security"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "22. How do personal experiences shape our worldview?",
+        "options": {
+            "A": "They have no impact",
+            "B": "They create biases and perspectives",
+            "C": "They provide a clear understanding of facts",
+            "D": "They limit our thinking"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question": "23. Which worldview promotes the idea of a social contract?",
+        "options": {
+            "A": "Libertarianism",
+            "B": "Communism",
+            "C": "Democratic theory",
+            "D": "Anarchism"
+        },
+        "correct_option": "C"
+    }
+]
+}
